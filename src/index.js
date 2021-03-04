@@ -1,8 +1,4 @@
-// import React from "react";
-// import ReactDOM from "react-dom";
-// import "./styles.css";
 
-// ReactDOM.render(<h1>Hello</h1>, document.getElementById("root"));
 
 //Map function
 //var numbers = [3, 4, 8, 12];
